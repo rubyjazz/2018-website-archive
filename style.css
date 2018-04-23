@@ -1826,3 +1826,8 @@ li.social-footer a:first-child
     }
 
 }
+
+
+.timeline a {
+  color: white;
+}
